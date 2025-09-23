@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "viktor"
+=======
+
+>>>>>>> 0db1595ee08e2b5f8ec35f8f64ccc2a9ea7bae7d
